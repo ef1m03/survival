@@ -1,0 +1,7 @@
+<meta>
+	<info author="p0int" description="Survival mode" version="1.5" type="gamemode" />
+	<script src="gui/inventory.lua" type="client" cache="false"/>
+	<script src="gui/version_label.lua" type="client" cache="false"/>
+	<script src="core/sv_core.lua" type="server"/>
+	<script src="chats/sv_chat.lua" type="server"/>
+</meta>
